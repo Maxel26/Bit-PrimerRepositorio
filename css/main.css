@@ -2,3 +2,7 @@ body{
     background-color: aquamarine;
     color: white;
 }
+
+.carousel-inner {
+    height: 70vh;
+}
